@@ -33,7 +33,10 @@ python orbit_solved.py
 If snap is not installed at the default location, Please provide the custom path when prompted.
 
 
-## 4 Check 
+## 4 Check
 Go to ''C:\Users\owner\\.snap\auxdata\Orbits\Sentinel-1\POEORB''  and to check if the orbit files are downloaded properly. 
-## Contact :  
-If you have any queries, please do not hesitate to contact us : Shagun Garg [shagun@gfz-potsdam.de]; Vamshi Karanam: [vkaranam@smu.edu]
+
+## Contributor :
+Shagun Garg [shagun@gfz-potsdam.de]
+Vamshi Karanam [vkaranam@smu.edu]
+  If you have any queries, please do not hesitate to contact us
