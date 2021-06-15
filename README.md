@@ -1,13 +1,14 @@
 # ReadMe 
 
-Follow the steps to use this script. 
-
-1) Dependencies : Python, pip, sentineleof
+Follow the steps to use this script.
 
 ##  Installing/ Checking Dependencies
 
-### Check for pip:
-Run this command to chcek if pip is installed. 
+## 1. Check for pip: ### 
+ [If you have pip installed Skip to **Step 2**] 
+
+
+Run this command to check if pip is installed.
 ```
 pip 
 ```
@@ -15,7 +16,7 @@ If pip is intalled you will see a list of pip commands; if not then follow this 
 
 
 
-##  How to use the script 
+## 2.  How to use the script 
 1) Open the directory where you have the SLC stored 
 2) Download orbit_solved.py and move it to the directory where you have SLC stored 
 3) Open terminal in the folder where your SLC is stored. 
@@ -24,7 +25,7 @@ If pip is intalled you will see a list of pip commands; if not then follow this 
 ```
 ls -l
 ```
-##  Let's Go
+## 3. Downloading Orbit  files
 Open terminal in that direcory and run : 
 ```
 python orbit_solved.py
@@ -32,5 +33,8 @@ python orbit_solved.py
 
 If snap is not installed at the default location, Please provide the custom path when prompted.
 
+
+## 4 Check 
+Go to ''C:\Users\owner\\.snap\auxdata\Orbits\Sentinel-1\POEORB''  and to check if the orbit files are downloaded properly. 
 ## Contact :  
-If you have any queries, please do not hesitate to contact us Shagun Garg: [shagun@gfz-potsdam.de]; Vamshi Karanam: [vkaranam@smu.edu]
+If you have any queries, please do not hesitate to contact us : Shagun Garg [shagun@gfz-potsdam.de]; Vamshi Karanam: [vkaranam@smu.edu]
