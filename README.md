@@ -2,13 +2,12 @@
 
 Follow the steps to use this script.
 
-##  Installing/ Checking Dependencies
 
 ## 1. Check for pip: ### 
  [If you have pip installed Skip to **Step 2**] 
 
 
-Run this command to check if pip is installed.
+Run this command in your terminal to check if pip is installed.
 ```
 pip 
 ```
