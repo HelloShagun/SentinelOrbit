@@ -36,7 +36,7 @@ If snap is not installed at the default location, Please provide the custom path
 ## 4 Check
 Go to ''C:\Users\owner\\.snap\auxdata\Orbits\Sentinel-1\POEORB''  and to check if the orbit files are downloaded properly. 
 
-## Contributor :
+## Contributor(s) :
 Shagun Garg [shagun@gfz-potsdam.de]
 Vamshi Karanam [vkaranam@smu.edu]
   If you have any queries, please do not hesitate to contact us
