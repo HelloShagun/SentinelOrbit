@@ -1,6 +1,7 @@
 # ReadMe 
 
-Follow the steps to use this script.
+NOTE: 
+#If you are facing problems using this script. Install conda, make a new environment, install pip  and skip to step 2. 
 
 
 ## 1. Check for pip: ### 
